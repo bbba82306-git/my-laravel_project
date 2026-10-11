@@ -12,7 +12,8 @@
 
     </head>
     <body class="row">
-        <a href="/StudentSavePage">Add Student</a>
+        <a href="/StudentSavePage">Add Student</a> 
+        <a href="/StudentViewPage">View Students</a>
             
         </div>
 
