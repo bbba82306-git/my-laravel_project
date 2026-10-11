@@ -20,10 +20,6 @@
             @endif
         </div>
 
-        <div>
-            <p>Test for GHD</p>
-        </div>
-
 
             <h1>Student Add</h1>
             <form method="post" action="{{route('student.save')}}">
